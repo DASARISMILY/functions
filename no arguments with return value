@@ -1,0 +1,4 @@
+def value():
+    return 3.141459
+result=value()
+print("value in the function is",result)
