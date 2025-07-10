@@ -1,0 +1,4 @@
+def hi():
+    print("hello students")
+    print("smily "*5)
+hi() 
