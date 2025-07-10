@@ -1,0 +1,5 @@
+def hi(name='guest'):
+    print("hello",name)
+a=input("enter data:")
+hi()
+hi(a)
