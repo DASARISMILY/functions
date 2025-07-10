@@ -1,0 +1,5 @@
+def value():
+    num=int(input("enter the value:"))
+    return num
+number=value()
+print(number)
